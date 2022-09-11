@@ -1,16 +1,4 @@
-# note_test_firebase
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##A simple project consisting of two screens to log in and create the account using firebase
+![Screenshot 2022-09-11 194358](https://user-images.githubusercontent.com/94804979/189542183-a14f4e66-46f3-407c-b9dd-d73ce6c6dd07.png)
+![Screenshot 2022-09-11 194549](https://user-images.githubusercontent.com/94804979/189542186-88868d08-7c60-4065-96ff-bb88b1f036a7.png)
+![Screenshot 2022-09-11 194524](https://user-images.githubusercontent.com/94804979/189542189-3f0bb3da-667f-4b06-ad21-80493a9ffd0d.png)
